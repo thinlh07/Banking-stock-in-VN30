@@ -38,3 +38,7 @@ Through out the project, there are some key values:
 ![Moving Average](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/Moving%20average.png)
 ![Daily Return](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/Daily%20Return.png)
 ![Correlation](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/Correlation.png)
+![Daily Return](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/Daily%20Return%20Histogram.png)
+
+A quick look into the risk and expected return relationship of the four biggest banks:
+![Risk - Expected Return](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/Risk%20-%20Expected%20Return.png)
