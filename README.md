@@ -24,7 +24,7 @@
  
 ### Outcomes 
   First, we can take a quick look at the price movement of all banking stocks in VN30 historically. 
-  ![closing_price.png](/Users/huuthinle/Documents/Banking-stock-in-VN30/closing_price.png)
+  ![closing_price.png](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/closing_price.png)
 
 
 
