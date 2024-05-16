@@ -1,13 +1,7 @@
 # Banking stocks in VN30 
 # Top 4 Biggest banks in Vietnam
 
-### Introduction, Value and Inspiration
-  In this project, the author aims to parse through banking stock data in VN30 index to present historical data, especially the top 4 biggest banks in Vietnam. 
-  
-  to generate meaningful insights and 
-  visualise the relationship between top 4 biggest banks. T
-
-This project aims to parse through US treasuries historical data to generate meaningful insights to and visualise how the yield curve has moved historically. This can help traders contextualise the next movement, as well as benchmark their spread trades.
+### Introduction
 
 The project aims to parse through banking stock data in VN30 index to give a past performance view of these stocks. Then, we will look into top 4 biggest banks in Vietnam to find out how each bank price impact on others.
   For achieving the aims, there are some questions will be answering: 
@@ -29,7 +23,7 @@ The project aims to parse through banking stock data in VN30 index to give a pas
   First, we can take a quick look at the price movement of all banking stocks in VN30 historically. 
   ![closing_price.png](https://github.com/thinlh07/Banking-stock-in-VN30/blob/main/closing_price.png)
 
-Through out the project, there are some key values: 
+  Through out the project, there are some key values: 
    1. Generally, all banks have experieced an uptrend over the time, especially TCB owning the most stable rise. Meanwhile, STB, TPB, VPB are three banks with highest level of fluctation.
    2. The moving average of 10 days, 20 days are closer to the stock price than the moving average of 50 days, so they probably more useful for analysing the stock in the short time.
    3. Within top 4 banks, only BID's histogram is left-skewed that means the stock has the largest frequency of positive daily return.
